@@ -1,0 +1,11 @@
+
+use these commands on mac in terminal of pycharm 
+export GIT_TRACE_PACKET=1
+export GIT_TRACE=1
+export GIT_CURL_VERBOSE=1
+
+then use gitclone otherwise it will throw error
+import git
+repository_url="https://github.com/PhonePe/pulse.git"
+destination_directory="/Users/shashankkaundal/Downloads/PhonepePulseData/Gitdataclone"
+git.Repo.clone_from(repository_url,destination_directory)

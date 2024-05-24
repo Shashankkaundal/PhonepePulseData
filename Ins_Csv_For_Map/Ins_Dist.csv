@@ -1,0 +1,724 @@
+District_Name,Transaction_count
+Adilabad ,221.75
+Agar Malwa ,76.5
+Agra ,834.25
+Ahmadabad ,3559.5
+Ahmednagar ,2232.0
+Aizawl ,159.75
+Ajmer ,639.0
+Akola ,424.5
+Alappuzha ,680.75
+Aligarh ,589.0
+Alipurduar ,183.5
+Alirajpur ,38.25
+Almora ,95.0
+Alwar ,1321.5
+Ambala ,272.25
+Ambedkar Nagar ,146.5
+Amethi ,171.0
+Amravati ,1049.0
+Amreli ,178.5
+Amritsar ,393.5
+Amroha ,214.0
+Anand ,301.5
+Anantapur ,1386.5
+Anantnag ,79.5
+Anjaw ,1.6666666666666667
+Anugul ,309.25
+Anuppur ,97.75
+Araria ,238.75
+Aravallis ,127.25
+Ariyalur ,83.0
+Arwal ,76.75
+Ashoknagar ,52.5
+Auraiya ,137.0
+Aurangabad ,1463.75
+Ayodhya ,293.5
+Azamgarh ,506.0
+Bagalkote ,529.75
+Bageshwar ,28.25
+Baghpat ,253.0
+Bahraich ,163.25
+Baksa ,104.25
+Balaghat ,260.5
+Balangir ,228.25
+Baleshwar ,371.75
+Ballari ,1236.25
+Ballia ,339.75
+Balod ,94.0
+Baloda Bazar ,152.25
+Balrampur ,85.625
+Banas Kantha ,510.75
+Banda ,104.75
+Bandipore ,32.75
+Banka ,182.75
+Bankura ,351.75
+Banswara ,159.0
+Bara Banki ,172.75
+Baramulla ,44.5
+Baran ,138.5
+Bareilly ,661.75
+Bargarh ,174.0
+Barmer ,562.0
+Barnala ,41.0
+Barpeta ,251.0
+Barwani ,139.75
+Bastar ,144.75
+Basti ,406.5
+Bathinda ,306.5
+Beed ,818.75
+Begusarai ,597.25
+Belagavi ,1607.5
+Bemetara ,69.75
+Bengaluru Rural ,1174.25
+Bengaluru Urban ,28918.0
+Betul ,319.0
+Bhadohi ,226.75
+Bhadradri Kothagudem ,675.5
+Bhadrak ,221.25
+Bhagalpur ,567.0
+Bhandara ,342.75
+Bharatpur ,327.75
+Bharuch ,816.25
+Bhavnagar ,306.25
+Bhilwara ,608.75
+Bhind ,147.5
+Bhiwani ,427.75
+Bhojpur ,352.75
+Bhopal ,1362.0
+Bidar ,557.0
+Bijapur ,51.5
+Bijnor ,505.75
+Bikaner ,467.75
+Bilaspur ,263.125
+Birbhum ,364.75
+Bishnupur ,8.25
+Biswanath ,80.5
+Bokaro ,514.25
+Bongaigaon ,109.0
+Botad ,57.5
+Boudh ,48.25
+Budaun ,139.25
+Budgam ,197.75
+Bulandshahr ,488.5
+Buldhana ,841.5
+Bundi ,177.5
+Burhanpur ,100.25
+Buxar ,237.5
+Cachar ,181.0
+Central ,2037.75
+Chamarajanagara ,167.0
+Chamba ,70.75
+Chamoli ,72.0
+Champawat ,48.5
+Champhai ,6.75
+Chandauli ,187.5
+Chandel ,2.75
+Chandigarh ,480.0
+Chandrapur ,739.0
+Changlang ,16.25
+Charaideo ,66.75
+Charkhi Dadri ,127.25
+Chatra ,89.0
+Chengalpattu ,1889.5
+Chennai ,3844.75
+Chhatarpur ,145.75
+Chhindwara ,381.25
+Chhotaudepur ,44.0
+Chikkaballapura ,404.5
+Chikkamagaluru ,398.75
+Chirang ,38.0
+Chitradurga ,390.0
+Chitrakoot ,68.25
+Chittoor ,2114.0
+Chittorgarh ,304.0
+Churachandpur ,8.5
+Churu ,359.5
+Coimbatore ,1949.5
+Cuddalore ,368.25
+Cuttack ,767.75
+Dadra And Nagar Haveli ,218.0
+Dakshin Dinajpur ,135.5
+Dakshina Kannada ,1087.0
+Daman ,175.0
+Damoh ,95.5
+Dantewada ,60.25
+Darbhanga ,605.25
+Darjiling ,739.75
+Darrang ,111.0
+Datia ,77.5
+Dausa ,306.25
+Davanagere ,786.75
+Dehradun ,1103.0
+Deogarh ,28.0
+Deoghar ,172.5
+Deoria ,348.25
+Devbhumi Dwarka ,67.75
+Dewas ,406.0
+Dhalai ,30.75
+Dhamtari ,96.25
+Dhanbad ,743.5
+Dhar ,412.5
+Dharmapuri ,223.75
+Dharwad ,1339.25
+Dhemaji ,72.75
+Dhenkanal ,189.25
+Dholpur ,122.5
+Dhubri ,133.0
+Dhule ,617.25
+Dibang Valley ,1.0
+Dibrugarh ,223.75
+Dima Hasao ,20.75
+Dimapur ,77.0
+Dindigul ,368.75
+Dindori ,59.0
+Diu ,11.0
+Doda ,22.25
+Dohad ,131.5
+Dumka ,92.25
+Dungarpur ,135.0
+Durg ,617.0
+East ,687.0
+East Garo Hills ,7.25
+East Godavari ,2265.0
+East Jaintia Hills ,12.5
+East Kameng ,4.0
+East Khasi Hills ,72.5
+East Nimar ,173.75
+East Siang ,13.5
+East Singhbhum ,904.5
+Ernakulam ,2157.25
+Erode ,531.25
+Etah ,123.25
+Etawah ,205.0
+Faridabad ,2189.75
+Faridkot ,66.5
+Farrukhabad ,146.75
+Fatehabad ,168.5
+Fatehgarh Sahib ,79.75
+Fatehpur ,183.75
+Fazilka ,147.75
+Firozabad ,240.5
+Firozepur ,120.5
+Gadag ,240.25
+Gadchiroli ,195.25
+Gajapati ,73.75
+Ganderbal ,90.75
+Gandhinagar ,627.0
+Ganganagar ,559.75
+Ganjam ,567.75
+Garhwa ,156.75
+Gariyaband ,67.0
+Gautam Buddha Nagar ,3265.5
+Gaya ,655.75
+Ghaziabad ,3115.25
+Ghazipur ,426.5
+Gir Somnath ,114.5
+Giridih ,207.25
+Goalpara ,89.75
+Godda ,101.75
+Golaghat ,109.0
+Gomati ,42.75
+Gonda ,205.5
+Gondia ,314.75
+Gopalganj ,348.25
+Gorakhpur ,886.5
+Gumla ,72.25
+Guna ,160.25
+Guntur ,2651.75
+Gurdaspur ,120.0
+Gurugram ,4266.75
+Gwalior ,688.5
+Hailakandi ,67.0
+Hamirpur ,112.75
+Hanumangarh ,321.0
+Hapur ,329.0
+Harda ,83.0
+Hardoi ,181.25
+Haridwar ,929.25
+Hassan ,746.25
+Hathras ,132.25
+Haveri ,321.75
+Hazaribagh ,266.25
+Hingoli ,228.75
+Hisar ,624.75
+Hojai ,81.0
+Hooghly ,1972.75
+Hoshangabad ,259.25
+Hoshiarpur ,209.5
+Howrah ,1380.0
+Hyderabad ,5725.0
+Idukki ,290.25
+Imphal East ,30.5
+Imphal West ,35.75
+Indore ,2589.25
+Jabalpur ,570.75
+Jagatsinghapur ,205.0
+Jagtial ,414.0
+Jaipur ,4647.5
+Jaisalmer ,171.0
+Jajapur ,302.75
+Jalandhar ,375.25
+Jalaun ,165.75
+Jalgaon ,1429.5
+Jalna ,661.5
+Jalore ,355.25
+Jalpaiguri ,338.75
+Jammu ,523.5
+Jamnagar ,170.25
+Jamtara ,38.25
+Jamui ,160.75
+Jangaon ,225.0
+Janjgir Champa ,266.75
+Jashpur ,82.0
+Jaunpur ,441.5
+Jaya Shankar Bhalupally ,162.25
+Jehanabad ,165.25
+Jhabua ,103.5
+Jhajjar ,532.75
+Jhalawar ,204.5
+Jhansi ,450.25
+Jhargram ,72.25
+Jharsuguda ,200.0
+Jhunjhunu ,629.25
+Jind ,255.25
+Jiribam ,3.25
+Jodhpur ,1037.0
+Jogulamba Gadwal ,146.25
+Jorhat ,138.25
+Junagadh ,130.25
+Kabirdham ,74.5
+Kachchh ,765.0
+Kaimur Bhabua ,119.75
+Kaithal ,210.75
+Kakching ,5.25
+Kalaburagi ,879.75
+Kalahandi ,172.75
+Kalimpong ,29.0
+Kallakkurichi ,138.0
+Kamareddy ,343.0
+Kamjong ,2.0
+Kamle ,1.5
+Kamrup ,203.75
+Kamrup Metropolitan ,1299.75
+Kancheepuram ,1392.75
+Kandhamal ,85.25
+Kangpokpi ,10.5
+Kangra ,336.0
+Kanker ,124.0
+Kannauj ,103.75
+Kanniyakumari ,248.75
+Kannur ,740.75
+Kanpur Dehat ,136.25
+Kanpur Nagar ,1516.5
+Kapurthala ,91.75
+Karaikal ,54.25
+Karauli ,175.25
+Karbi Anglong ,98.25
+Kargil ,14.0
+Karimganj ,99.5
+Karimnagar ,867.0
+Karnal ,440.0
+Karur ,165.75
+Kasaragod ,355.75
+Kasganj ,105.0
+Kathua ,100.5
+Katihar ,383.25
+Katni ,183.5
+Kaushambi ,105.75
+Kendrapara ,158.5
+Kendujhar ,308.5
+Khagaria ,208.5
+Khammam ,922.0
+Khargone ,278.5
+Kheda ,249.5
+Kheri ,201.75
+Khordha ,1823.75
+Khowai ,22.75
+Khunti ,74.0
+Kinnaur ,20.25
+Kiphire ,1.0
+Kishanganj ,133.5
+Kishtwar ,17.5
+Koch Bihar ,512.25
+Kodagu ,200.25
+Koderma ,112.0
+Kohima ,11.0
+Kokrajhar ,80.5
+Kolar ,684.25
+Kolasib ,3.5
+Kolhapur ,1480.75
+Kolkata ,3929.0
+Kollam ,843.5
+Kondagaon ,83.5
+Koppal ,335.75
+Koraput ,202.25
+Korba ,313.0
+Korea ,89.0
+Kota ,713.5
+Kottayam ,552.5
+Kozhikode ,1187.25
+Kra Daadi ,1.3333333333333333
+Krishna ,3115.0
+Krishnagiri ,831.25
+Kulgam ,24.0
+Kullu ,99.5
+Kumuram Bheem Asifabad ,141.75
+Kupwara ,41.75
+Kurnool ,1154.25
+Kurukshetra ,240.75
+Kurung Kumey ,2.0
+Kushinagar ,341.5
+Lahul And Spiti ,6.75
+Lakhimpur ,107.5
+Lakhisarai ,108.75
+Lakshadweep ,9.75
+Lalitpur ,92.5
+Latehar ,70.5
+Latur ,858.5
+Lawngtlai ,5.75
+Leh Ladakh ,72.5
+Lepa Rada ,2.3333333333333335
+Lohardaga ,89.5
+Lohit ,13.5
+Longding ,2.0
+Longleng ,2.5
+Lower Dibang Valley ,10.75
+Lower Siang ,3.3333333333333335
+Lower Subansiri ,6.25
+Lucknow ,2306.5
+Ludhiana ,902.5
+Lunglei ,8.25
+Madhepura ,192.0
+Madhubani ,511.0
+Madurai ,920.75
+Mahabubabad ,282.75
+Maharajganj ,223.0
+Mahasamund ,149.5
+Mahbubnagar ,337.25
+Mahe ,12.75
+Mahendragarh ,472.25
+Mahesana ,424.25
+Mahisagar ,65.25
+Mahoba ,71.0
+Mainpuri ,181.0
+Majuli ,17.5
+Malappuram ,1080.75
+Maldah ,830.0
+Malkangiri ,75.25
+Mamit ,7.0
+Mancherial ,602.25
+Mandi ,148.0
+Mandla ,113.75
+Mandsaur ,252.75
+Mandya ,632.0
+Mansa ,213.5
+Marigaon ,99.5
+Mathura ,489.5
+Mau ,225.25
+Mayurbhanj ,262.75
+Medak ,207.75
+Medchal Malkajgiri ,5229.5
+Meerut ,1069.75
+Mewat ,243.0
+Mirpur ,2.5
+Mirzapur ,213.0
+Moga ,61.75
+Mokokchung ,6.25
+Mon ,3.25
+Moradabad ,908.75
+Morbi ,174.0
+Morena ,159.5
+Mulugu ,107.5
+Mumbai ,2461.5
+Mumbai Suburban ,6409.25
+Mungeli ,39.75
+Munger ,235.0
+Murshidabad ,566.75
+Muzaffarabad ,2.0
+Muzaffarnagar ,395.5
+Muzaffarpur ,1002.0
+Mysuru ,1993.0
+Nabarangpur ,96.0
+Nadia ,680.25
+Nagaon ,249.0
+Nagapattinam ,172.25
+Nagarkurnool ,246.5
+Nagaur ,512.0
+Nagpur ,3659.5
+Nainital ,360.0
+Nalanda ,438.75
+Nalbari ,100.75
+Nalgonda ,830.25
+Namakkal ,341.75
+Namsai ,12.0
+Nanded ,909.75
+Nandurbar ,328.75
+Narayanpet ,93.75
+Narayanpur ,28.0
+Narmada ,47.25
+Narsinghpur ,161.75
+Nashik ,3697.75
+Navsari ,197.0
+Nawada ,209.25
+Nayagarh ,109.0
+Neemuch ,151.25
+New Delhi ,1882.25
+Nicobars ,19.0
+Nirmal ,305.5
+Niwari ,34.75
+Nizamabad ,680.0
+Noney ,1.5
+North ,880.625
+North And Middle Andaman ,47.5
+North East ,1144.5
+North Garo Hills ,2.75
+North Goa ,736.5
+North Tripura ,45.75
+North Twenty Four Parganas ,3603.0
+North West ,1958.25
+Nuapada ,67.5
+Osmanabad ,456.5
+Pakke Kessang ,3.0
+Pakur ,49.0
+Palakkad ,643.25
+Palamu ,401.0
+Palghar ,2058.5
+Pali ,542.5
+Palwal ,435.0
+Panch Mahals ,228.25
+Panchkula ,262.75
+Panipat ,501.75
+Panna ,66.0
+Papum Pare ,78.0
+Parbhani ,581.25
+Paschim Bardhaman ,979.75
+Paschim Medinipur ,675.5
+Pashchim Champaran ,461.0
+Patan ,224.75
+Pathanamthitta ,297.5
+Pathankot ,162.0
+Patiala ,277.5
+Patna ,3521.0
+Pauri Garhwal ,202.25
+Peddapalle ,518.25
+Perambalur ,54.0
+Peren ,2.25
+Phek ,3.6666666666666665
+Pherzawl ,1.0
+Pilibhit ,104.75
+Pithoragarh ,98.5
+Poonch ,27.75
+Porbandar ,67.5
+Prakasam ,2180.25
+Pratapgarh ,187.125
+Prayagraj ,1118.25
+Puducherry ,479.25
+Pudukkottai ,122.5
+Pulwama ,78.25
+Pune ,12961.0
+Purba Bardhaman ,839.75
+Purba Medinipur ,533.25
+Purbi Champaran ,560.5
+Puri ,263.0
+Purnia ,385.75
+Purulia ,263.0
+Rae Bareli ,210.5
+Raichur ,548.75
+Raigad ,2174.5
+Raigarh ,301.5
+Raipur ,1220.75
+Raisen ,205.75
+Rajanna Sircilla ,226.5
+Rajgarh ,209.0
+Rajkot ,512.25
+Rajnandgaon ,201.25
+Rajouri ,48.5
+Rajsamand ,235.0
+Ramanagara ,779.5
+Ramanathapuram ,151.75
+Ramban ,18.75
+Ramgarh ,247.0
+Rampur ,237.75
+Ranchi ,1444.25
+Rangareddy ,5584.5
+Ranipet ,224.0
+Ratlam ,295.5
+Ratnagiri ,428.75
+Rayagada ,196.75
+Reasi ,38.5
+Rewa ,334.5
+Rewari ,975.0
+Ribhoi ,23.0
+Rohtak ,440.75
+Rohtas ,378.75
+Rudraprayag ,35.0
+Rupnagar ,132.75
+Sabar Kantha ,244.0
+Sagar ,336.5
+Saharanpur ,578.75
+Saharsa ,239.0
+Sahebganj ,71.5
+Saiha ,2.6666666666666665
+Salem ,708.25
+Samastipur ,657.5
+Samba ,91.5
+Sambalpur ,289.25
+Sambhal ,104.5
+Sangareddy ,1247.5
+Sangli ,849.75
+Sangrur ,238.0
+Sant Kabeer Nagar ,139.25
+Saraikela Kharsawan ,229.0
+Saran ,632.25
+Sas Nagar ,702.75
+Satara ,1100.5
+Satna ,365.75
+Sawai Madhopur ,216.25
+Sehore ,268.75
+Senapati ,3.0
+Seoni ,184.25
+Sepahijala ,32.75
+Serchhip ,2.75
+Shahdara ,1104.5
+Shahdol ,159.5
+Shahid Bhagat Singh Nagar ,44.5
+Shahjahanpur ,202.75
+Shajapur ,149.75
+Shamli ,245.5
+Sheikhpura ,94.0
+Sheohar ,129.5
+Sheopur ,42.0
+Shi Yomi ,1.0
+Shimla ,135.75
+Shivamogga ,847.25
+Shivpuri ,126.5
+Shopian ,57.25
+Shravasti ,39.0
+Siang ,2.6666666666666665
+Siddharthnagar ,209.75
+Siddipet ,398.0
+Sidhi ,139.0
+Sikar ,850.5
+Simdega ,55.5
+Sindhudurg ,274.5
+Singrauli ,246.0
+Sirmaur ,129.5
+Sirohi ,256.0
+Sirsa ,232.0
+Sitamarhi ,344.0
+Sitapur ,178.75
+Sivaganga ,148.0
+Sivasagar ,93.5
+Siwan ,452.0
+Solan ,347.0
+Solapur ,2003.75
+Sonbhadra ,395.5
+Sonepur ,65.75
+Sonipat ,726.25
+Sonitpur ,249.25
+South ,636.875
+South Andaman ,270.75
+South East Delhi ,2238.75
+South Garo Hills ,2.25
+South Goa ,562.5
+South Salmara Mancachar ,22.0
+South Tripura ,40.75
+South Twenty Four Parganas ,1186.5
+South West ,1779.5
+South West Garo Hills ,3.0
+South West Khasi Hills ,1.0
+Spsr Nellore ,1748.75
+Sri Muktsar Sahib ,68.0
+Srikakulam ,902.5
+Srinagar ,97.5
+Sukma ,37.75
+Sultanpur ,247.25
+Sundargarh ,446.25
+Supaul ,195.5
+Surajpur ,98.25
+Surat ,3013.25
+Surendranagar ,127.75
+Surguja ,137.5
+Suryapet ,467.25
+Tamenglong ,2.6666666666666665
+Tapi ,84.25
+Tarn Taran ,83.5
+Tawang ,11.5
+Tehri Garhwal ,91.0
+Tengnoupal ,5.0
+Tenkasi ,129.5
+Thane ,8902.0
+Thanjavur ,284.25
+The Dangs ,18.25
+The Nilgiris ,143.25
+Theni ,187.25
+Thiruvallur ,2609.5
+Thiruvananthapuram ,1359.0
+Thiruvarur ,126.25
+Thoothukkudi ,243.0
+Thoubal ,7.75
+Thrissur ,922.0
+Tikamgarh ,72.5
+Tinsukia ,200.0
+Tirap ,9.0
+Tiruchirappalli ,517.25
+Tirunelveli ,335.75
+Tirupathur ,184.0
+Tiruppur ,1215.0
+Tiruvannamalai ,264.75
+Tonk ,258.0
+Tuensang ,2.3333333333333335
+Tumakuru ,1208.0
+Udaipur ,632.5
+Udalguri ,79.0
+Udham Singh Nagar ,639.25
+Udhampur ,80.5
+Udupi ,517.25
+Ujjain ,499.5
+Ukhrul ,5.75
+Umaria ,68.0
+Una ,118.0
+Unakoti ,24.5
+Unnao ,262.5
+Upper Siang ,3.25
+Upper Subansiri ,3.75
+Uttar Dinajpur ,294.75
+Uttara Kannada ,589.25
+Uttarkashi ,45.25
+Vadodara ,1158.0
+Vaishali ,744.25
+Valsad ,716.5
+Varanasi ,845.0
+Vellore ,386.5
+Vidisha ,168.0
+Vijayapura ,789.75
+Vikarabad ,231.25
+Viluppuram ,285.25
+Virudhunagar ,268.0
+Visakhapatnam ,4220.25
+Vizianagaram ,814.0
+Wanaparthy ,149.0
+Warangal Rural ,320.25
+Warangal Urban ,1557.25
+Wardha ,313.5
+Washim ,227.0
+Wayanad ,236.0
+West ,1417.75
+West Garo Hills ,30.25
+West Godavari ,2086.0
+West Jaintia Hills ,4.25
+West Kameng ,23.5
+West Karbi Anglong ,10.75
+West Khasi Hills ,4.666666666666667
+West Siang ,15.0
+West Singhbhum ,127.75
+West Tripura ,244.25
+Wokha ,2.0
+Yadadri Bhuvanagiri ,307.75
+Yadgir ,208.0
+Yamunanagar ,256.25
+Yanam ,15.0
+Yavatmal ,567.25
+Ysr ,1313.75
+Zunheboto ,2.0
